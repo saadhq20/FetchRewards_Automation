@@ -22,6 +22,8 @@ Scenario#2 :
 4. Verify the account was not created.
 5. Save a screen shot
 
+I have added a screen share recording of the test running succesfully.
+
 Code uses Appium to connect with the Pixel 2 device on an emulator in Android Studio.
 
 I wanted to use Androidx and other ways to test the UI of the application, but the APK would not decompile into proper classes. Hence I went this route to test the UI by Appium, with selenium the driving force.
